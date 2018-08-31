@@ -1,1 +1,27 @@
-# Created by .ignore support plugin (hsz.mobi)
+#Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Idea
+.idea
+*.iml
+*.iws
+*.ipr
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Gradle
+.gradle
+!gradle-wrapper.jar
+
+# Build
+out
+
+# Other
+*.log
+*.swp
+*.bak
